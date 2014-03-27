@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="GameDataLibrary.ArmyDetails">
+    <Damage>0.1</Damage>
+    <Health>1</Health>
+    <ReloadTime>0.25</ReloadTime>
+    <Range>125</Range>
+    <MoveSpeed>1</MoveSpeed>
+    <Summary>Ninja: Short range heavy attack</Summary>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="GameDataLibrary.LevelDetails">
+    <GameMode>1</GameMode>
+
+    <ArmyNumber>5 5 0</ArmyNumber>
+  </Asset>
+</XnaContent>

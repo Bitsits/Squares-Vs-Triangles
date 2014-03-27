@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="GameDataLibrary.ArmyDetails">
+    <Damage>.5</Damage>
+    <Health>2</Health>
+    <ReloadTime>2</ReloadTime>
+    <Range>325</Range>
+    <MoveSpeed>.25</MoveSpeed>
+    <Summary>Bazooka: Shoots in one direction</Summary>
+  </Asset>
+</XnaContent>
