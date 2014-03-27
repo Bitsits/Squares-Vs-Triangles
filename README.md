@@ -18,3 +18,6 @@ Track [Marching](http://www.jamendo.com/en/track/106449) from Album [MU.S.GA [Mu
 ##Sound Effects
 [Snap-a-neck01.wav](http://www.freesound.org/samplesViewSingle.php?id=97783) by [CGEffex](http://www.freesound.org/usersViewSingle.php?id=1386366), [canon.aif](http://www.freesound.org/samplesViewSingle.php?id=14615) by [man](http://www.freesound.org/usersViewSingle.php?id=14447), [bow_sound.wav](http://www.freesound.org/samplesViewSingle.php?id=54) by [Anton](http://www.freesound.org/usersViewSingle.php?id=58), [swosh-08.flac](http://www.freesound.org/samplesViewSingle.php?id=59995) by [qubodup](http://www.freesound.org/usersViewSingle.php?id=71257).
 Sound effects are licensed under [Creative Commons Sampling Plus 1.0 License](http://creativecommons.org/licenses/sampling+/1.0/) .
+
+
+Squares Vs Triangles by Shubhajit Saha is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
