@@ -1,7 +1,7 @@
 BitSits-Framework---Squares-Vs-Triangles
 ========================================
 
-Squares Vs Triangles
+Squares Vs Triangles [http://suvozit.com/2010/12/squares-vs-triangles.html]
 
 #Instructions 
 Drag using LEFT mouse button to move any Square army. Try to reach the enemy(Triangle) Castle before they reach yours. Use Esc for pause and help screen. 
