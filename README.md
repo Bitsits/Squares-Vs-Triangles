@@ -8,8 +8,8 @@ Drag using LEFT mouse button to move any Square army. Try to reach the enemy(Tri
 
 #Troubleshooting
  If you have problems getting the game to run. You should install:
---* .NET Framework 3.5 Service Pack 1
---* XNA Framework 3.1  
+  * .NET Framework 3.5 Service Pack 1
+  * XNA Framework 3.1  
 
 #Credits 
 ##Music
