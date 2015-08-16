@@ -5,9 +5,9 @@ The idea of the game was inspired from [Jon klassen](http://www.burstofbeaden.co
 
 Download Executable
 ---
-[Squares Vs Triangles 1.4.zip (2.06 MB)](https://dl.dropboxusercontent.com/u/85066508/Blog/BitSits%20Games/Squares%20Vs%20Triangles%201.4.zip)
+[Squares Vs Triangles 1.4.zip (2.06 MB)](https://github.com/BitSits/Squares-vs-Triangles/raw/master/Squares%20Vs%20Triangles%201.4.zip)
 
-[Square Vs Triangle.zip (1.89 MB)](https://dl.dropboxusercontent.com/u/85066508/Blog/BitSits%20Games/Squares%20Vs%20Triangles.zip)
+[Square Vs Triangle.zip (1.89 MB)](https://github.com/BitSits/Squares-vs-Triangles/raw/master/Squares%20Vs%20Triangles.zip)
 
 Instructions
 ---
