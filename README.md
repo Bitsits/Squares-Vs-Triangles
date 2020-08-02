@@ -5,9 +5,9 @@ The idea of the game was inspired from [Jon klassen](http://www.burstofbeaden.co
 Screenshots
 ---
 
-![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles/master/Blog/Squares%20Vs%20Triangles1.png)
-![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles/master/Blog/Squares%20Vs%20Triangles2.png)
-![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles/master/Blog/Squares%20Vs%20Triangles3.png)
+![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles-Assets/master/Blog/Squares%20Vs%20Triangles1.png)
+![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles-Assets/master/Blog/Squares%20Vs%20Triangles2.png)
+![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles-Assets/master/Blog/Squares%20Vs%20Triangles3.png)
 
 Download Executable
 ---
@@ -17,7 +17,7 @@ Download Executable
 
 Instructions
 ---
-Drag using LEFT mouse button to move any Square army. Try to reach the enemy(Triangle) Castle before they reach yours. Use Esc for pause and help screen.
+Drag using <kbd>LEFT</kbd> mouse button to move any Square army. Try to reach the enemy(Triangle) Castle before they reach yours. Use <kbd>Esc</kbd> for pause and help screen.
 
 
 Troubleshooting
@@ -39,7 +39,7 @@ Credits
 License
 ---
 
-![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles/master/Blog/cc.png)
+![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles-Assets/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
@@ -63,8 +63,8 @@ This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-N
 
 [Experimental Gameplay Project]: http://experimentalgameplay.com/
 [theme]: http://experimentalgameplay.com/blog/2010/11/night-and-day-for-november/
-[zip]: https://github.com/Bitsits/Squares-vs-Triangles/raw/master/Squares%20Vs%20Triangles.zip
-[zip14]: https://github.com/Bitsits/Squares-vs-Triangles/raw/master/Squares%20Vs%20Triangles%201.4.zip
+[zip]: https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Squares%20Vs%20Triangles.zip
+[zip14]: https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Squares%20Vs%20Triangles%201.4.zip
 
 [Blogger](https://bitsits.blogspot.in/2010/12/squares-vs-triangles.html)
 [Tumblr](http://bitsits.tumblr.com/post/96204126350/squares-vs-triangles-the-idea-of-the-game-was)
