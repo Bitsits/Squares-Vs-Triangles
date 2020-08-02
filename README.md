@@ -4,10 +4,9 @@ The idea of the game was inspired from [Jon klassen](http://www.burstofbeaden.co
 
 Screenshots
 ---
-
-![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles-Assets/master/Blog/Squares%20Vs%20Triangles1.png)
-![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles-Assets/master/Blog/Squares%20Vs%20Triangles2.png)
-![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles-Assets/master/Blog/Squares%20Vs%20Triangles3.png)
+![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Blog/Squares%20Vs%20Triangles1.png)
+![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Blog/Squares%20Vs%20Triangles2.png)
+![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Blog/Squares%20Vs%20Triangles3.png)
 
 Download Executable
 ---
@@ -19,11 +18,9 @@ Instructions
 ---
 Drag using <kbd>LEFT</kbd> mouse button to move any Square army. Try to reach the enemy(Triangle) Castle before they reach yours. Use <kbd>Esc</kbd> for pause and help screen.
 
-
 Troubleshooting
 ---
 If you have problems getting the game to run. You should install [.NET Framework 3.5 SP1] and [XNA Framework Redistributable 3.1].
-
 
 Credits
 ---
@@ -38,8 +35,7 @@ Credits
 
 License
 ---
-
-![](https://raw.githubusercontent.com/Bitsits/Squares-vs-Triangles-Assets/master/Blog/cc.png)
+![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
