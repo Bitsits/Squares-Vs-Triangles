@@ -32,13 +32,11 @@ Credits
 
 - Code Samples: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf].
 
-
 License
 ---
-![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Blog/cc.png)
+[![](https://github.com/Bitsits/Squares-vs-Triangles-Assets/raw/master/Blog/cc.png)][Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
-
 
 [.NET Framework 3.5 SP1]: http://www.microsoft.com/downloads/details.aspx?FamilyID=ab99342f-5d1a-413d-8319-81da479ab0d7
 [XNA Framework Redistributable 3.1]: http://www.microsoft.com/downloads/details.aspx?FamilyID=53867a2a-e249-4560-8011-98eb3e799ef2
